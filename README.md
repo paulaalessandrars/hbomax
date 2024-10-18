@@ -10,7 +10,7 @@
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://paulaalessandrars.github.io/hbomax/">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -19,8 +19,6 @@
 - [✨ Features](#features)
 - [📦 Temas abordados](#topics)
 - [🏆 Desafio](#challenges)
-- [🌈 Demonstração](#demo)
-- [💻 Autora](#author)
 
 <h2 id="features">✨ Features</h2>
 
@@ -36,7 +34,7 @@
 
 <h2 id="topics">📦 Temas abordados</h2>
 
-O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora <a href="https://paulaalessandrars.github.io/hbomax/">Michele Ambrosio</a>.
+O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>
 
 Recursos CSS presentes no projeto:
 
@@ -113,7 +111,7 @@ Para implementar a barra de rolagem personalizada, como no exemplo, adicione na 
   }
 ```
 
-O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="https://micheleambrosio.github.io/hbomax/">resultado final</a>.
+O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="https://paulaalessandrars.github.io/hbomax/">resultado final</a>.
 
 As fontes utilizadas no projeto foram:
 
