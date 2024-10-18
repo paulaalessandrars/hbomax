@@ -36,7 +36,7 @@
 
 <h2 id="topics">📦 Temas abordados</h2>
 
-O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora <a href="https://github.com/micheleambrosio">Michele Ambrosio</a>.
+O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora <a href="https://paulaalessandrars.github.io/hbomax/">Michele Ambrosio</a>.
 
 Recursos CSS presentes no projeto:
 
@@ -52,7 +52,7 @@ Recursos CSS presentes no projeto:
 
 <h2 id="challenges">🏆 Desafio</h2>
 
-Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
+Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://paulaalessandrars.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
 
 Para auxiliar na reprodução, utilize a branch `template-desafio`. Faça um fork do projeto em sua conta do GitHub.
 
